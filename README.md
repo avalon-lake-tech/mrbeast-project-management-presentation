@@ -1,4 +1,8 @@
 # mrbeast-project-management-presentation
+
+## Project Description:
+Avalon Lake Tech has taken on the lucrative contract of managing service provider for the YouTuber Mr. Beast! We will be providing IT support, creating endpoints, and network management. 
+
 [Team Agreement](https://docs.google.com/document/d/1_6-iwYF3UZ25DPMl-6SgVHn_jVMajzcK4gZNbZ6P7Ow/edit?usp=sharing)
 
 ## Team Members
