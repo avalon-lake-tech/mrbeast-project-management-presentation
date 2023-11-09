@@ -13,3 +13,4 @@ Avalon Lake Tech has taken on the lucrative contract of managing service provide
 - Yue Moua [Linkedin](https://www.linkedin.com/in/yue-moua-9b51601b8/) [Github](https://github.com/ymoua27)
 - Jasmine Pressley [Linkedin](https://www.linkedin.com/in/jasminerpressley/) [Github](https://github.com/Jasminepressley)
  
+### Project Presentation Slide [link](https://docs.google.com/presentation/d/1av8DdautDGnDhpziWzMVEIi3J44FdzpUxaPYXlNrZX8/edit?usp=sharing)
