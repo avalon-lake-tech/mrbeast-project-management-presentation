@@ -1,7 +1,7 @@
 # YouTube MSP Project Requirements:
 
 ## Scenario Prompt 
-- ([Live Google Doc](https://docs.google.com/document/d/1IJ-dk4G1s0eH6SejuMaMjttW5UDPducNxElsZavgSZs/edit?usp=sharing))
+- [Live Google Doc](https://docs.google.com/document/d/1IJ-dk4G1s0eH6SejuMaMjttW5UDPducNxElsZavgSZs/edit?usp=sharing)
 - [Static Doc](/seattle-ops-201d14_ProjectScenario.pdf)
 
 ## Scenario Requirements
