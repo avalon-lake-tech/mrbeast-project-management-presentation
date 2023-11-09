@@ -5,7 +5,7 @@
 - [Static Doc](/seattle-ops-201d14_ProjectScenario.pdf)
 
 ## Scenario Requirements
-- Entirely **remote**.
+- Entirely remote
 - User Endpoints:
   - Windows
   - Linux
@@ -23,3 +23,25 @@
 5. Remote Access
 
 ### User Endpoints
+- Windows Endpoint
+  - Back Up Solution
+  - Collaborative Writing Method
+  - Email client and address
+  - File and Document Sharing
+  - Remote/admin RDP access
+- Linux Endpoint
+  - Back Up Solution
+  - Collaborative Writing Method
+  - Email client and address
+  - File and Document Sharing
+  - Remote/admin RDP access
+
+### Automation / Account Setups
+- https://ninite.com/ 
+  - Possible bundle a set of files with ninite and put it on github (as a zip) and have it be downloaded, unzipped, and installed through the account automation script.
+- Account setup script
+
+
+### Collaboration
+- Linux Fileserver. Could be in AWS and hooked into the user endpoints as a shareable drive.
+- Google Shared Drive.
