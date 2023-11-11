@@ -41,7 +41,6 @@
   - Possible bundle a set of files with ninite and put it on github (as a zip) and have it be downloaded, unzipped, and installed through the account automation script.
 - Account setup script
 
-
 ### Collaboration
 - Linux Fileserver. Could be in AWS and hooked into the user endpoints as a shareable drive.
 - Google Shared Drive.
