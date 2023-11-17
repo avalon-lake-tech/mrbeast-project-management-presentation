@@ -5,7 +5,7 @@
 ## Project Description:
 Avalon Lake Tech has taken on the lucrative contract of managing service provider for the YouTuber Mr. Beast! We will be providing IT support, creating endpoints, and network management. 
 
-[Team Agreement](https://docs.google.com/document/d/1_6-iwYF3UZ25DPMl-6SgVHn_jVMajzcK4gZNbZ6P7Ow/edit?usp=sharing)
+Our Team Agreement, to ensure a smooth working experience, including measures for an conflicts of design or ideas that may arise can be found [here.](https://docs.google.com/document/d/1_6-iwYF3UZ25DPMl-6SgVHn_jVMajzcK4gZNbZ6P7Ow/edit?usp=sharing)
 
 ## Team Members
 - Christen Reinhart [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christen-reinhart/)
