@@ -7,7 +7,8 @@ Avalon Lake Tech has taken on the lucrative contract of managing service provide
 
 ## Team Members
 - Christen Reinhart [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christen-reinhart/)
-[Github](https://github.com/christen-reinhart)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christen-reinhart)
+
 - Marcus Nogueira [Linkedin](https://www.linkedin.com/in/marcusvno/) [Github](https://github.com/marcusvno)
 - Kevin Willaims [Linkedin](https://www.linkedin.com/in/kevin-williams-14a00586/) [Github](https://github.com/kevwill1992)
 - Jason Dallas [Linkedin](https://www.linkedin.com/in/jasonhdallas/) [Github](https://github.com/daljas)
