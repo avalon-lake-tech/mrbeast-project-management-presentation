@@ -9,10 +9,20 @@ Avalon Lake Tech has taken on the lucrative contract of managing service provide
 - Christen Reinhart [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christen-reinhart/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christen-reinhart)
 
-- Marcus Nogueira [Linkedin](https://www.linkedin.com/in/marcusvno/) [Github](https://github.com/marcusvno)
-- Kevin Willaims [Linkedin](https://www.linkedin.com/in/kevin-williams-14a00586/) [Github](https://github.com/kevwill1992)
-- Jason Dallas [Linkedin](https://www.linkedin.com/in/jasonhdallas/) [Github](https://github.com/daljas)
-- Yue Moua [Linkedin](https://www.linkedin.com/in/yue-moua-9b51601b8/) [Github](https://github.com/ymoua27)
-- Jasmine Pressley [Linkedin](https://www.linkedin.com/in/jasminerpressley/) [Github](https://github.com/Jasminepressley)
+- Marcus Nogueira [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvno/)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcusvno)
+
+- Kevin Willaims [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-williams-14a00586/)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevwill1992)
+
+- Jason Dallas [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonhdallas/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daljas)
+
+- Yue Moua [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yue-moua-9b51601b8/)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ymoua27)
+
+- Jasmine Pressley [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminerpressley/)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasminepressley)
+
  
 ### Project Presentation Slide [link](https://docs.google.com/presentation/d/1av8DdautDGnDhpziWzMVEIi3J44FdzpUxaPYXlNrZX8/edit?usp=sharing)
