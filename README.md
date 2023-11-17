@@ -27,4 +27,5 @@ Avalon Lake Tech has taken on the lucrative contract of managing service provide
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasminepressley)
 
  
-### Project Presentation Slide [link](https://docs.google.com/presentation/d/1av8DdautDGnDhpziWzMVEIi3J44FdzpUxaPYXlNrZX8/edit?usp=sharing)
+### Project Presentation Slide 
+- The slides for the presentation of our YouTube Support project can be found at the following [link.](https://docs.google.com/presentation/d/1av8DdautDGnDhpziWzMVEIi3J44FdzpUxaPYXlNrZX8/edit?usp=sharing)
